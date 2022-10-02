@@ -1,0 +1,10 @@
+C:\Users\splin\source\repos\DZ_1_2\DZ_1_4\bin\Debug\DZ_1_4.exe.config
+C:\Users\splin\source\repos\DZ_1_2\DZ_1_4\bin\Debug\DZ_1_4.exe
+C:\Users\splin\source\repos\DZ_1_2\DZ_1_4\bin\Debug\DZ_1_4.pdb
+C:\Users\splin\source\repos\DZ_1_2\DZ_1_4\obj\Debug\DZ_1_4.csprojAssemblyReference.cache
+C:\Users\splin\source\repos\DZ_1_2\DZ_1_4\obj\Debug\DZ_1_4.Form1.resources
+C:\Users\splin\source\repos\DZ_1_2\DZ_1_4\obj\Debug\DZ_1_4.Properties.Resources.resources
+C:\Users\splin\source\repos\DZ_1_2\DZ_1_4\obj\Debug\DZ_1_4.csproj.GenerateResource.cache
+C:\Users\splin\source\repos\DZ_1_2\DZ_1_4\obj\Debug\DZ_1_4.csproj.CoreCompileInputs.cache
+C:\Users\splin\source\repos\DZ_1_2\DZ_1_4\obj\Debug\DZ_1_4.exe
+C:\Users\splin\source\repos\DZ_1_2\DZ_1_4\obj\Debug\DZ_1_4.pdb
